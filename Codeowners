@@ -2,6 +2,6 @@
 # each line is a file pattern followed by one and more owners.
 
 # the repo. unless a later match takes precedence,
-# @global-owner1 and @global-owner2 will be requested for 
+# @ibrahimplanner and @global-owner2 will be requested for 
 # review when someone opens a pull request
-* @global-owner1 @global-owner2
+* @ibrahim-planner @global-owner2
